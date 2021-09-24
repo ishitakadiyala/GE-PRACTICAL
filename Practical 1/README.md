@@ -1,1 +1,1 @@
-
+HTML Document with formatting - Heading, Bold, Italic, Underlined Text, Line Break, Background Colour, Font Size, Width, Style and Colour, Title, Paragraph, Horizontal Line, Marquee Text and Blinking Text.
